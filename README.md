@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on basically nothing.
 - 📫 How to reach me; Ask me in GitHub? 
-- 😄 Pronouns: PPTP
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like chess.
 
 <!---
