@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nobodydeep
-- 👀 I’m interested in coding. (especially Python) 
+- 👀 I’m interested in problem solving and logical stuff.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on basically nothing.
-- 📫 How to reach me; Ask me in GitHub? 
+- 💞️ I’m looking to collaborate on anything I'm intersted in!
+- 📫 How to reach me; Just email me :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like chess.
 
