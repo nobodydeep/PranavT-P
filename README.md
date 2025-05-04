@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranavT-P
+- 👋 Hi, I’m @nobodydeep
 - 👀 I’m interested in coding. (especially Python) 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on basically nothing.
